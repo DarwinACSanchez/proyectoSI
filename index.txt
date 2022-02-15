@@ -1,3 +1,8 @@
 esto es el intro a git
 
 mi nombre es Darwin Adrian Cruz Sanchez y vivo en R/a Pochitocal 1ra secc "la palma" Tacotalpa, Tabasco
+
+tenngo:
+- computadora
+- internet
+- comida
